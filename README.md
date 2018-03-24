@@ -31,5 +31,8 @@ https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
 ##### 11.4. Running the Example
 
 ### Day 2
-11.5 Creating an Executable Jar ~
+#### 11.5 Creating an Executable Jar ~
+##### Appendix E. The Executable Jar Format
 
+### Day 3
+#### 13.5 Starters
