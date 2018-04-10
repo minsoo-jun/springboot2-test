@@ -36,3 +36,9 @@ https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
 
 ### Day 3
 #### 13.5 Starters
+#### 15.1 Importing Additional Configuration Classes
+#### 3 가지의 컴포넌트 등록 방법
+
+### Day 4
+#### 15.2 Importing XML Configuration
+17. Spring Beans and Dependency Injection 부터 
